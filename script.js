@@ -11,4 +11,4 @@ function multiply (x) {
 	return x;
 };
 
-console.log(add(subtract(multiply(16))));
+alert("Chain of Functions: " + add(subtract(multiply(16))));
