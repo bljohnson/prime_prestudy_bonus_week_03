@@ -1,4 +1,4 @@
-<h3> prime_prestudy_bonus_week_03 </h3>
+<h3>prime_prestudy_bonus_week_03</h3>
 
 Ok, console logs are great, but lets actually make functions that do things.
 
